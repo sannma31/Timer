@@ -76,7 +76,7 @@ struct ContentView: View {
                         print("OKタップされました")
                     }
                 }message: {
-                    Text("タイマー終了時間です")
+                    Text("タイマー終了時間だよ")
                 }
             }
         }
